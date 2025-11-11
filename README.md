@@ -1,5 +1,5 @@
 # Hasnat Hassan – Frontend Web Developer  
-[Haripur / Islamabad, Pakistan](#) · hasnathassan397@gmail.com · [LinkedIn](https://linkedin.com/in/HasnatHassan) · [GitHub](https://github.com/hasnat-hassan)
+[Haripur / Islamabad, Pakistan](#) · hasnathassan397@gmail.com · [LinkedIn](https://linkedin.com/in/hasnat-hassan-b13850331/) · [GitHub](https://github.com/hasnat-hassan)
 
 ## 🚀 About Me  
 I build modern, responsive websites with **React**, **Next.js**, and **Tailwind CSS**. I’m passionate about creating seamless user experiences and pixel-perfect designs.  
