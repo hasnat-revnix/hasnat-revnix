@@ -1,68 +1,24 @@
-# Hasnat Hassan – Frontend Web Developer  
-[Haripur / Islamabad, Pakistan](#) · hasnathassan397@gmail.com · [LinkedIn](https://linkedin.com/in/hasnat-hassan-b13850331/) · [GitHub](https://github.com/hasnat-hassan)
+# 💫 About Me:
+I build modern, responsive websites with React, Next.js, and Tailwind CSS. I’m passionate about creating seamless user experiences and pixel-perfect designs.<br>With hands-on experience converting Figma designs to code, integrating APIs, and working with backend technologies like Supabase, Prisma, and Drizzle ORM, I bring full-stack awareness to frontend development.<br>My focus: clean code, high performance, maintainability.
 
-## 🚀 About Me  
-I build modern, responsive websites with **React**, **Next.js**, and **Tailwind CSS**. I’m passionate about creating seamless user experiences and pixel-perfect designs.  
-With hands-on experience converting Figma designs to code, integrating APIs, and working with backend technologies like Supabase, Prisma, and Drizzle ORM, I bring full-stack awareness to frontend development.  
-My focus: clean code, high performance, maintainability.
 
-## 📚 Education  
-- **B.S. Software Engineering** – Virtual University of Pakistan (In Progress)  
-- Diploma of Associate Engineering (ICT) – Computer Technology Institute & Training Institute
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hasnat-hassan/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hasnathassan397@gmail.com) 
 
-## 🧰 Tech Stack  
-### Languages  
-HTML5 · CSS3 · JavaScript · TypeScript  
-### Frameworks & Styling  
-React.js · Next.js · Tailwind CSS · SASS  
-### Backend & Databases  
-Supabase · Prisma ORM · Drizzle ORM · MongoDB · MySQL  
-### Tools & Version Control  
-Git · GitHub · Figma · Vercel · Postman  
-### Developer Productivity  
-Cursor IDE · ChatGPT · Claude AI · DeepSeek
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username= hasnat-revnix&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user= hasnat-revnix&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username= hasnat-revnix&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏗 Major Work  
-### Selected Projects  
-- *usePopcorn* – Live movie search built with OMDB API.  
-- *The React Quiz* – Multiple-choice quiz with dynamic questions.  
-- *WorldWise* – Interactive world map where users can click to add cities.  
-- *Fast React Pizza* – Dynamic pizza menu loaded via external API.  
-- *The Wild Oasis* – Complete cabin-management dashboard with image uploads.  
-- *The Atomic Blog* – Real-time search through 10,000+ posts.  
-- *Smart Packing List* – Add items with custom quantities, dynamic interface.  
-- *Instagram Clone* – User authentication via JWT, full stack.  
-- *BookIt* – NextAuth.js + JWT-based session management for registration and login.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username= hasnat-revnix&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
-> 🚨 Note: Some projects are in private repos or not deployed yet due to development across different environments.
-
-## 💼 Experience  
-**Junior Web Developer** at Revnix – Feb 2024 – Present  
-- Converted Figma designs to production-ready UI using React/Next.js + Tailwind.  
-- Built dynamic pages (authentication, cart, profiles, shop) with Supabase backend.  
-- Integrated secure forms, password flows, and user data handling.  
-- Leveraged Prisma & Drizzle ORM for complex database logic.  
-- Contributed to live client projects, improved productivity with AI tools.
-
-**Intern** at Revnix – Feb 2024 – Jul 2024  
-- Completed project-based learning via Udemy; built various UI projects using React, CSS & APIs.  
-- Learned Git workflows and modern development environments.
-
-## 📬 Contact  
-Looking for a dedicated developer? I’m open to freelance opportunities and full-time roles.  
-- **Email**: hasnathassan397@gmail.com  
-- **WhatsApp**: +92 307 9114060  
-- **GitHub**: [github.com/hasnat-hassan](https://github.com/hasnat-hassan)  
-- **LinkedIn**: [linkedin.com/in/HasnatHassan](https://linkedin.com/in/HasnatHassan)  
-- **Working Hours**: Monday-Friday, 11 AM-8 PM (PKT) — can be adjusted.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username= hasnat-revnix&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id= hasnat-revnix&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🎯 Why Me?  
-I don’t just write code—I bring iterations, scalability, and maintainability into each project. I’m comfortable bridging design and development, and thrive in environments where results matter over jargon. Let’s build something that works, looks great and performs brilliantly.
-
----
-
-## ✅ Let’s Connect  
-If you’ve got a project in mind, or want to explore collaboration, drop me a line. I’ll bring the code, let’s bring the vision to life.
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
